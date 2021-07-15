@@ -2,7 +2,7 @@
 
 >   <div align='center' ><font face='Times New Roman' size=5>College of Information Science and Engineering, China, Chongqing</font></div>
  
->   <div align='center' ><font face='Times New Roman' size=5>Mobile: 18658835485 &ensp; | &ensp; Email: jianliu9509@163.com &ensp; | &ensp; Homepage: <https://jianliujiangxi.github.io/></font></div>
+>   <div align='center' ><font face='Times New Roman' size=5>Mobile: 18658835485 &ensp; | &ensp; Email: <a href=jianliu9509@163.com>jianliu9509@163.com</a> &ensp; | &ensp; Homepage: <a href=https://jianliujiangxi.github.io>https://jianliujiangxi.github.io/</a></font></div>
 
 # EDUCATION
 
@@ -44,7 +44,7 @@ optimization*
 
 > -   Designed and implemented an effective heuristic algorithm to solve the
     optimized model
->>  paper: "Optimization model for subway passenger crossings based on team orientation problem", (editing)
+>>  paper: "Optimization model for subway passenger crossings based on team orientation problem", (Not submitted, Editing)
 >>  
 >>  github code: [https://github.com/jianliujiangxi/LSACO](https://github.com/jianliujiangxi/LSACO)
 
