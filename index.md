@@ -1,8 +1,8 @@
 >   <div align='center' ><font face='Times New Roman'>Jian Liu</font></div>
 
->   <div align='center' ><font face='Times New Roman'>College of Information Science and Engineering, China, Chongqing</font></div>
+>   <div align='center' ><font face='Times New Roman' size=8>College of Information Science and Engineering, China, Chongqing</font></div>
  
->   <div align='center' ><font face='Times New Roman'>Mobile: 18658835485 &ensp; | &ensp; Email: jianliu9509@163.com &ensp; | &ensp; Homepage: https://jianliujiangxi.github.io/</font></div>
+>   <div align='center' ><font face='Times New Roman' size=8 >Mobile: 18658835485 &ensp; | &ensp; Email: jianliu9509@163.com &ensp; | &ensp; Homepage: https://jianliujiangxi.github.io/</font></div>
 
 # EDUCATION
 
