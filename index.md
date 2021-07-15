@@ -2,7 +2,8 @@
 
 >   <div align='center' ><font face='Times New Roman' size=5>College of Information Science and Engineering, China, Chongqing</font></div>
  
->   <div align='center' ><font face='Times New Roman' size=5>Mobile: 18658835485 &ensp; | &ensp; Email: <a href="jianliu9509@163.com">jianliu9509@163.com</a> &ensp; | &ensp; Homepage: <a href="https://jianliujiangxi.github.io/">https://jianliujiangxi.github.io/</a></font></div>
+>   <div align='center' ><font face='Times New Roman' size=5>Mobile: 18658835485 &ensp; | &ensp; Email: jianliu9509@163.com </font></div>
+>   <div align='center' ><font face='Times New Roman' size=5>Homepage: <a href="https://jianliujiangxi.github.io/">https://jianliujiangxi.github.io/</a></font></div>
 
 # EDUCATION
 
@@ -17,7 +18,7 @@
 
 # RESEARCH EXPEREINCE
 
-> &ensp;&ensp; My research interests mainly focus on **<big> Machine Learning and Operational Research </big>** with strong self-motivation. I'm instrested in utilizing deep learning model to solve practical problems with high-precision. Also, I'd like to construct mathematical optimization models by abstracting practical problems in real life, and then a optimal solution will be given by designing effective algorithms to solve the optimization models.
+> &ensp;&ensp; My research interests mainly focus on **<big> Machine Learning and Operational Research </big>** with strong self-motivation. I'm instrested in utilizing deep learning model to solve practical problems with high-precision. Also, I'd good at constructing mathematical optimization models by abstracting practical problems in real life, and then a optimal solution will be given by designing effective algorithms to solve the optimization models.
 
 
 ## 2020-Present Visiting Student, Tsinghua University, China (7 months)
