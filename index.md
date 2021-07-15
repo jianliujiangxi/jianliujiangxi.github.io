@@ -2,7 +2,7 @@
 
 >   <div align='center' ><font face='Times New Roman' size=5>College of Information Science and Engineering, China, Chongqing</font></div>
  
->   <div align='center' ><font face='Times New Roman' size=5>Mobile: 18658835485 &ensp; | &ensp; Email: <a href=jianliu9509@163.com>jianliu9509@163.com</a> &ensp; | &ensp; Homepage: <a href=https://jianliujiangxi.github.io>https://jianliujiangxi.github.io/</a></font></div>
+>   <div align='center' ><font face='Times New Roman' size=5>Mobile: 18658835485 &ensp; | &ensp; Email: <a href="jianliu9509@163.com">jianliu9509@163.com</a> &ensp; | &ensp; Homepage: <a href="https://jianliujiangxi.github.io/">https://jianliujiangxi.github.io/</a></font></div>
 
 # EDUCATION
 
