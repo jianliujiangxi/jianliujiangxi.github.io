@@ -53,7 +53,7 @@ optimization*
 
 >   **Languages:** Chinese – native; English – near-fluent
 
->   **Office:** Proficient in Excel and Visio, WordPress and MS Office
+>   **Office:** Proficient in Excel and Visio, and MS Office
 
 >   **Coding:** Python – proficient; Matlab – proficient; C/C++ – not-frequent;
 
